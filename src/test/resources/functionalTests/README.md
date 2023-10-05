@@ -1,0 +1,1 @@
+It is always recommended to put all the feature files in the resources' folder.

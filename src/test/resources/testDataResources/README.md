@@ -1,0 +1,1 @@
+it is better to create a package with in that to have all the JSON file in it.

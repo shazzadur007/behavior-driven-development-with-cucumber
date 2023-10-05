@@ -1,0 +1,1 @@
+It is always consider a good approach to create enums for all the hard coded values in the project, so define the standard.

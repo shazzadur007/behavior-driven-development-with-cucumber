@@ -1,0 +1,1 @@
+Page Object Model Framework which is also known as Page Object Design Pattern or Page Objects. The main advantage of Page Object Model is that if the UI or any HTML object changes for any page, the test does not need any fix. Only the code within the page objects will be impacted, but it does not have any impact to the test.

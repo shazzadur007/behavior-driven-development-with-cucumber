@@ -1,0 +1,1 @@
+As Cucumber(we) uses Junit we need to have a Test Runner class.

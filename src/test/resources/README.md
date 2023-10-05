@@ -1,0 +1,1 @@
+As a standard, we keep Cucumber feature files in resources folder
